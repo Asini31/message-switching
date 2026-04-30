@@ -6,6 +6,11 @@ The **Message Switching Simulator** is a web-based project that demonstrates how
 
 ---
 
+## Live Demo
+https://asini31.github.io/MESSAGE-SWITCHING/
+
+---
+
 ## 🚀 Features
 
 * 📊 Calculate:
