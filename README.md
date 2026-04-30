@@ -77,11 +77,7 @@ The project can be deployed using:
 
 ---
 
-## 📷 Screenshots
 
-(Add screenshots here if required)
-
----
 
 ## 👨‍💻 Developed By
 
